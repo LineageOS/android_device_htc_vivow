@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAHn///5c\u003d",
+        "filename": "overlay/frameworks/base/core/res/res/xml/power_profile.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 19
+      },
+      "writtenOn": "2011-07-25T13:39:20Z",
+      "side": 1,
+      "message": "array is wrong",
+      "revId": "a6a2761846ab9cc9d26e0b357bf0facd6cc46255",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
